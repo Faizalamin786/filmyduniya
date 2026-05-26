@@ -17,3 +17,4 @@ The Movie Review App is a web application built with ReactJS, offering a platfor
 - **Community Engagement:** All users can view and rate movies added by others, fostering a sense of community and shared content.
 
 - **Efficient Data Management:** Firebase database integration for seamless storage and retrieval of movie details, ratings, and reviews.
+- effiecent
